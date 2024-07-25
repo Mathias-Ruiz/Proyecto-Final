@@ -1,0 +1,48 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #b84548;
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titulo p{
+  font-size: 70px;
+  color: #fff5b0;
+  font-weight: bold;
+  text-align: center;
+}
+.ima1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ima1 img{
+  height: 300px;
+}
+.ima1 ul{
+ font-size: 25px;
+ color:  #fff5b0;
+ font-weight: times;
+}
+.link{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.link a{
+  font-size: 40px;
+  color:  #ffea51;
+  font-weight: times;
+  margin: 20px
+}
+.ima1 p{
+ font-size: 25px;
+ color:  #fff5b0;
+ font-weight: times;
+ text-align: justify;
+ margin: 20pxc
